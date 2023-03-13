@@ -55,7 +55,7 @@ p{
 
 body{
   margin:0;
-  background-image: url('/images/bg.jpeg');
+  background-image: url('bg.jpeg');
   padding: 100px;
   font-family: 'Montserrat', sans-serif;
 }
